@@ -1,4 +1,4 @@
 {
   "type": "web",
-  "url": "https://mbc.aflam4you.net/playeraf.php?vid=79&aflam_s=1&aflam_w=100%25&aflam_h=250&aflam_k=114551124465565654423324&remove_iframe=1"
+  "url": "intent://mbc.aflam4you.net/playeraf.php?vid=79&aflam_s=1&aflam_w=100%25&aflam_h=250&aflam_k=114551124465565654423324#Intent;scheme=https;package=com.android.chrome;end"
 }
