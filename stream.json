@@ -1,5 +1,16 @@
 {
-  "type": "web",
-  "url": "https://mbc.aflam4you.net/embed.php?vid=79",
-  "referer": "https://mbc.aflam4you.net/"
+  "channels": [
+    {
+      "name": "Zee Alwan",
+      "type": "web",
+      "url": "https://mbc.aflam4you.net/embed.php?vid=79",
+      "referer": "https://mbc.aflam4you.net/"
+    },
+    {
+      "name": "Al Maghribiya",
+      "type": "web",
+      "url": "https://www.youtube.com/embed/zmHCXxVOHRo",
+      "referer": "https://www.youtube.com/"
+    }
+  ]
 }
