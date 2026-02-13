@@ -1,4 +1,5 @@
 {
-  "type": "web",
-  "url": "https://ok.ru/videoembed/11157140872824"
+  "type": "m3u8",
+  "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
+  "referer": ""
 }
